@@ -1,4 +1,4 @@
-![LearnDev Logo](./images/Learn-dev-1.jpg)
+![LearnDev Logo](/images/Learn-dev-1.jpg)
 
 ## Hello there👋
 
