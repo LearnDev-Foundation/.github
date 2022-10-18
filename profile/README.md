@@ -1,4 +1,4 @@
-![LearnDev Logo](https://raw.githubusercontent.com/LearnDev-Foundation/.github/main/profile/images/Logo.png)
+![LearnDev Logo](https://raw.githubusercontent.com/LearnDev-Foundation/.github/branch1/profile/images/Logo.png)
 
 ## Hello there👋
 
